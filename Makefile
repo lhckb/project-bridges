@@ -1,2 +1,4 @@
+# SHELL := /bin/bash
+
 activenv:
-	source ./venv/bin/activate
+	. ./venv/bin/activate
