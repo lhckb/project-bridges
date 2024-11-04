@@ -1,4 +1,2 @@
-# SHELL := /bin/bash
-
-activenv:
-	. ./venv/bin/activate
+newreqs:
+	pip freeze > requirements.txt
