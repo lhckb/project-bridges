@@ -3,6 +3,7 @@ results/
 results_v1_10runs/
 results_v2_180_wrong_scaling/
 results_v3_60runs_dataleakage/
+results_v4_60runs_200epochs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
